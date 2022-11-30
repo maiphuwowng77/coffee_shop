@@ -10,7 +10,7 @@
 
 
 # The_Coffee_Shop
-<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/stores/221BBakerStreet.jpg" alt="..." width="400">
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/stores/221BBakerStreet.jpg" alt="..." width="600">
 
 ## Nhiệm vụ nghiên cứu
 Phần mềm này được tạo ra nhằm hy vọng mang đến sự thuận tiện cho người sử dụng cũng như giúp cho các chủ quán có thể xem
@@ -48,7 +48,7 @@ lập trình
 ## Thiết kế cơ sở dữ liệu
 Sử dụng cơ sở dữ liệu
 
-<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffeeshop_database/database.jpg" alt="..." width="400">
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffeeshop_database/database.jpg" alt="..." width="800">
 
 - Bảng Customer là nơi chúng tôi lưu trữ thông tin của khách hàng. Có 5 hàng khác nhau là  **mã khách hàng**, **tên khách hàng**,**số điện thoại**,**địa chỉ** và **email**
 - Bảng Order là nơi chúng tôi lưu trữ thông tin của đơn đặt hàng. Chúng ta có thể thấy **ID** của cửa hàng, ngày đặt hàng và mã đơn đặt.
