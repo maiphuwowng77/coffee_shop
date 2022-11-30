@@ -1,0 +1,495 @@
+
+<head>
+    <title>The Coffee Shop</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../img/logo.png">
+    <link href="./stylesheets/general.css" rel="stylesheet">
+    <link href="./stylesheets/button.css" rel="stylesheet">
+    <link href="./stylesheets/layout.css" rel="stylesheet">
+    <link href="./stylesheets/popup.css" rel="stylesheet">
+    <link href="./stylesheets/product.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<header>
+
+    <div class="tabBar">
+        <div class="brandName" onclick="location.href='./introduction.html'">THE COFFEE SHOP</div>
+        <button class="tabBtn" onclick="location.href='./index.html'" type="button">Trang chủ</button>
+        <button class="tabBtn" onclick="location.href='./introduction.html'" type="button">Giới thiệu</button>
+        <button class="tabBtn" onclick="location.href='./orderPage.html'" type="button">Đặt hàng</button>
+        <button class="tabBtn" onclick="location.href='./cart.php'" type="button">Giỏ hàng</button>
+        <div></div>
+    </div>
+
+
+    
+</header>
+
+<div class="content">
+    <ul class="slideshow">
+        <li><span></span></li>
+        <li><span></span></li>
+        <li><span></span></li>
+        <li><span></span></li>
+        <li><span></span></li>
+        <li><span></span></li>
+        <li><span></span></li>
+        <li><span></span></li>
+        <li><span></span></li>
+    </ul>
+    <h1>SẢN PHẨM</h1><BR />
+    <div style="width: 100%; text-align: center;">
+        <a class="textBtn" href="#coffee" style="padding-right: 2%;">Coffee</a>
+        <a class="textBtn" href="#smoothie" style="padding-right: 2%;">Smoothie</a>
+        <a class="textBtn" href="#juice" style="padding-right: 2%;">Juice</a>
+        <a class="textBtn" href="#tea" style="padding-right: 2%;">Tea</a>
+        
+    </div>
+    <h2 id="coffee" style="padding-left: 2%;">Coffee</h2>
+    <div class="grid">
+        <div class="container">
+            <div class="product-photo"><img src="../img/menu/Cappuccino.png"></div>
+            <div class="product-name">Cappuccino</div>
+            <form action="cart.php" method="post">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br>
+                <table>
+                    <th>
+                        <div class="product-price">45.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Cappuccino">
+                <input type="hidden" name="gia" value="45000">
+                <input type="hidden" name="hinh" value="Cappuccino.png">
+            </form>
+            
+        </div>
+
+        <div class="container">
+            <div class="product-photo"><img src="../img/menu/Espresso.png"></div>
+            <div class="product-name">Espresso</div>
+
+            <form action="cart.php" method="post">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br>
+                <table>
+                    <th>
+                        <div class="product-price">40.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Espresso">
+                <input type="hidden" name="gia" value="40000">
+                <input type="hidden" name="hinh" value="Espresso.png">
+            </form>
+           
+        </div>
+
+        <div class="container">
+            <div class="product-photo"><img src="../img/menu/Americano.jpg"></div>
+            <div class="product-name">Americano</div>
+            <form action="cart.php" method="post">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br>
+                <table>
+                    <th>
+                        <div class="product-price">40.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Americano">
+                <input type="hidden" name="gia" value="40000">
+                <input type="hidden" name="hinh" value="Americano.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <div class="product-photo"><img src="../img/menu/Caramel Macchiato.jpg"></div>
+            <div class="product-name">Caramel Macchiato</div>
+            <form action="cart.php" method="post">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br>
+                <table>
+                    <th>
+                        <div class="product-price">45.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Caramel Macchiato">
+                <input type="hidden" name="gia" value="45000">
+                <input type="hidden" name="hinh" value="Caramel Macchiato.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <div class="product-photo"><img src="../img/menu/Latte.jpg"></div>
+            <div class="product-name">Latte</div>
+            <form action="cart.php" method="post">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br>
+                <table>
+                    <th>
+                        <div class="product-price">45.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Latte">
+                <input type="hidden" name="gia" value="45000">
+                <input type="hidden" name="hinh" value="Latte.jpg">
+            </form>
+        </div>
+    </div>
+
+    <h2 id="smoothie" style="padding-left: 2%;">Smoothie</h2>
+    <div class="grid">
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Avocado Smoothie.jpg"></div>
+                <div class="product-name">Avocado Smoothie</div>
+                <div class="product-description">Sinh tố bơ
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">45.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Avocado Smoothie">
+                <input type="hidden" name="gia" value="45000">
+                <input type="hidden" name="hinh" value="Avocado Smoothie.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Durian Smoothie.jpg"></div>
+                <div class="product-name">Durian Smoothie</div>
+                <div class="product-description">Sinh tố sầu riêng
+                &nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">50.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Durian Smoothie">
+                <input type="hidden" name="gia" value="50000">
+                <input type="hidden" name="hinh" value="Durian Smoothie.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Mango Smoothie.jpg"></div>
+                <div class="product-name">Mango Smoothie</div>
+                <div class="product-description">Sinh tố xoài
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">40.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Mango Smoothie">
+                <input type="hidden" name="gia" value="40000">
+                <input type="hidden" name="hinh" value="Mango Smoothie.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Strawberries Smoothie.jpg"></div>
+                <a class="product-name">Strawberries Smoothie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                <a class="product-description"><input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"></a>
+                <div class="product-description">Sinh tố dâu</div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">45.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Strawberries Smoothie">
+                <input type="hidden" name="gia" value="45000">
+                <input type="hidden" name="hinh" value="Strawberries Smoothie.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Watermelon Smoothie.jpg"></div>
+                <a class="product-name">Watermelon Smoothie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                <a class="product-description"><input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"></a>
+                <div class="product-description">Sinh tố dưa hấu</div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">35.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Watermelon Smoothie">
+                <input type="hidden" name="gia" value="35000">
+                <input type="hidden" name="hinh" value="Watermelon Smoothie.jpg">
+            </form>
+        </div>
+
+    </div>
+
+    <h2 id="juice" style="padding-left: 2%;">Juice</h2>
+    <div class="grid">
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Apple Juice.jpg"></div>
+                <div class="product-name">Apple juice</div>
+                <div class="product-description">Nước ép táo
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">30.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Apple Juice">
+                <input type="hidden" name="gia" value="30000">
+                <input type="hidden" name="hinh" value="Apple Juice.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Carrot Juice.jpg"></div>
+                <div class="product-name">Carrot Juice</div>
+                <div class="product-description">Nước ép cà rốt
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                <table>
+                    <th>
+                        <div class="product-price">25.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Carrot Juice">
+                <input type="hidden" name="gia" value="25000">
+                <input type="hidden" name="hinh" value="Carrot Juice.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Pomegranate Juice.jpg"></div>
+                <div class="product-name">Pomegranate Juice</div>
+                <div class="product-description">Nước ép lựu
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">35.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Pomegranate Juice">
+                <input type="hidden" name="gia" value="35000">
+                <input type="hidden" name="hinh" value="Pomegranate Juice.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Celery Juice.jpg"></div>
+                <div class="product-name">Celery Juice</div>
+                <div class="product-description">Nước ép cần tây
+                &nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                <table>
+                    <th>
+                        <div class="product-price">30.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Celery Juice">
+                <input type="hidden" name="gia" value="30000">
+                <input type="hidden" name="hinh" value="Celery Juice.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Pineapple Juice.jpg"></div>
+                <div class="product-name">Pineapple Juice</div>
+                <div class="product-description">Nước ép dứa
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">25.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Pineapple Juice">
+                <input type="hidden" name="gia" value="25000">
+                <input type="hidden" name="hinh" value="Pineapple Juice.jpg">
+            </form>
+        </div>
+    </div>
+
+    <h2 id="tea" style="padding-left: 2%;">Tea</h2>
+    <div class="grid">
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Hawaii Fruit Tea.jpg"></div>
+                <div class="product-name">Hawaii Fruit Tea</div>
+                <div class="product-description">Trà hoa quả NĐ
+                &nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">40.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Hawaii Fruit Tea">
+                <input type="hidden" name="gia" value="40000">
+                <input type="hidden" name="hinh" value="Hawaii Fruit Tea.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Herbal Tea.jpg"></div>
+                <div class="product-name">Herbal Tea</div>
+                <div class="product-description">Trà thảo mộc
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">25.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Herbal Tea">
+                <input type="hidden" name="gia" value="25000">
+                <input type="hidden" name="hinh" value="Herbal Tea.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Ginger Tea.jpg"></div>
+                <div class="product-name">Ginger Tea</div>
+                <div class="product-description">Trà gừng
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">20.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Ginger Tea">
+                <input type="hidden" name="gia" value="20000">
+                <input type="hidden" name="hinh" value="Ginger Tea.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Honey Chrysanthemum Tea.jpg"></div>
+                <div class="product-name">Chrysanthemum Tea</div>
+                <div class="product-description">Trà hoa cúc MO
+                &nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"><br></div>
+                
+                <table>
+                    <th>
+                        <div class="product-price">30.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Honey Chrysanthemum Tea">
+                <input type="hidden" name="gia" value="30000">
+                <input type="hidden" name="hinh" value="Honey Chrysanthemum Tea.jpg">
+            </form>
+        </div>
+
+        <div class="container">
+            <form action="cart.php" method="post">
+                <div class="product-photo"><img src="../img/menu/Green Tea.jpg"></div>
+                <div class="product-name">Green Tea</div>
+                <div class="product-description">Trà xanh
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="number" style="text-align: right;"name="soluong" min="1" max="10" value="1"></div>     
+                <table>
+                    <th>
+                        <div class="product-price">20.000&#273
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="submit" class="btn btn-warning" name="addcart" value="Đặt hàng"></div>
+                    </th>
+                </table>
+                <input type="hidden" name="tensp" value="Green Tea">
+                <input type="hidden" name="gia" value="20000">
+                <input type="hidden" name="hinh" value="Green Tea.jpg">
+            </form>
+        </div>
+
+    </div>
+
+    
+</div>
+
+<footer>
+    <div class="dropdownGrid">
+        <a style="font-size: 180%;">The Coffee Shop</a>
+        <button class="dropdown">+ Thông tin website
+            <div class="dropdown-content">
+                <a href="./index.html">Trang chủ</a>
+                <a href="./orderPage.html">Đặt hàng</a>
+            </div>
+        </button>
+        <button class="dropdown">+ Hotline<div class="dropdown-content">
+                <a href="./orderPage.html">Đặt hàng: 0000 1111 (7AM - 8:30PM)</a>
+            </div></button>
+    </div>
+</footer>
