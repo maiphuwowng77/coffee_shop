@@ -64,7 +64,7 @@
     <div class="tabBar">
         <div class="brandName" onclick="location.href='./introduction.html'">THE COFFEE SHOP</div>
         <button class="tabBtn" onclick="location.href='./index.html'" type="button">Trang chủ</button>
-        <button class="tabBtn" onclick="location.href='./introduction.html'" type="button">Giới thiệu</button>
+        <button class="tabBtn" onclick="location.href='./user.php'" type="button">Giới thiệu</button>
         <button class="tabBtn" onclick="location.href='./orderPage.html'" type="button">Đặt hàng</button>
         <button class="tabBtn" onclick="location.href='./cart.php'" type="button">Giỏ hàng</button>
     </div>
