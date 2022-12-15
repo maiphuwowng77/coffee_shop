@@ -59,13 +59,24 @@ Sử dụng cơ sở dữ liệu
 - Cuối cùng là bảng employees gồm tên,mã và ngày sinh , điện thoại,email của các nhân viên.
 
 ## Thiết kế web
+
 * Web bán hàng
+
 - Giúp khách hàng có thể lựa chọn đồ uống yêu thích với giá cả và số lượng phù hợp
-<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%202m13s.jpg" alt="..." width="600">
+
+
+<img src="https://github.com/hien28082003/coffee_shop/blob/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%202m13s.jpg" alt="..." width="600">
+
 * Web quản lý 
+
 - Đăng nhập bằng tài khoản của chủ quán 
+
+
 <img src="https://github.com/hien28082003/coffee_shop/blob/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%204m43s.jpg" alt="..." width="600">
+
 - Giúp quản lý nhân viên, quản lý sản phẩm, quản lý đơn hàng, quản lý khách hàng
+
+
 <img src="https://github.com/hien28082003/coffee_shop/blob/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%204m50s.jpg" alt="..." width ="600">
 
 ## Xem trước
