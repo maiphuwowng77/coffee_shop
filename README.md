@@ -58,7 +58,17 @@ Sử dụng cơ sở dữ liệu
 - Productlines gồm dòng sản phẩm, mô tả kèm theo hình ảnh.
 - Cuối cùng là bảng employees gồm tên,mã và ngày sinh , điện thoại,email của các nhân viên.
 
+## Thiết kế web
+* Web bán hàng
+- Giúp khách hàng có thể lựa chọn đồ uống yêu thích với giá cả và số lượng phù hợp
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%202m13s.jpg" alt="..." width="600">
+* Web quản lý 
+- Đăng nhập bằng tài khoản của chủ quán 
+<img src="https://github.com/hien28082003/coffee_shop/blob/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%204m43s.jpg" alt="..." width="600">
+- Giúp quản lý nhân viên, quản lý sản phẩm, quản lý đơn hàng, quản lý khách hàng
+<img src="https://github.com/hien28082003/coffee_shop/blob/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%204m50s.jpg" alt="..." width ="600">
 ## Xem trước
-
+* Video demo
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F11yt6_eSQbo-0pmdGSY7xWjhmosB9FLEe%2Fview%3Ffbclid%3DIwAR1fgav-DCk8xDazHJ8uDV-NELM3OmNqe-7nvkLMmMlbnsOn51YHROqNZgw&h=AT39YH0f8yWplgUi_0e1bTaVnrgaS_Gi92q7gsiDzmB-pHdFGGzIf3CfqAWBVLXl3nt79ter6eZOoPJ4AJoGi8C8c0XFYJH2d7lI8BTqqfUZF4LJlRBBfhlByIW75O4ZSeftSAyrNDRg7PasaC_Jmg">Xem video demo tại đây</a>
 * Liên kết với chúng tôi https://github.com/maiphuwowng77/coffee_shop
 
