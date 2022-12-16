@@ -60,7 +60,7 @@ Sử dụng cơ sở dữ liệu sau:
 - Bảng store chúng ta bao gồm **mã số cửa hàng**, **số điện thoại**, **địa chỉ**, **thành phố**, **quốc gia** và **mã số của quản lý cửa hàng**.
 - Bảng productline gồm **dòng sản phẩm**, **mô tả** và **link ảnh**.
 - Cuối cùng là bảng employees gồm **mã số nhân viên**, **tên**, **giới tính**, **ngày sinh**, **điện thoại**, **email**, **mã số cửa hàng**, **mã số của quản lý**, **nghiệp vụ**, **ngày bắt đầu** của các nhân viên.
-- Có khóa ngoại giữa các bảng products - productline, orderdetails - products, orderdetails - orders, orders - customers, orders - store, store - employees, employees - store, employees - employees.
+- Có khóa ngoại giữa các bảng **products - productline**, **orderdetails - products**, **orderdetails - orders**, **orders - customers**, **orders - store**, **store - employees**, **employees - store**, **employees - employees**.
 
 <a name = "web-design"></a>
 ## Thiết kế web
