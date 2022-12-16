@@ -64,7 +64,7 @@ Sử dụng cơ sở dữ liệu
 - Gồm trang chủ, giới thiệu về cửa hàng, trang đặt hàng, trang giỏ hàng để thanh toán và trang đăng nhập quản lý
 - Giúp khách hàng có thể lựa chọn đồ uống yêu thích với giá cả và số lượng phù hợp để cho vào giỏ hàng
 
-<img src="https://github.com/hien28082003/coffee_shop/blob/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%202m13s.jpg" alt="..." width="600">
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo/trang chủ.jpg" alt="..." width="600">
 
 - Trang giỏ hàng cho phép khách hàng chọn tiếp tục mua hàng, xóa giỏ hàng hoặc điền thông tin để thanh toán
 
