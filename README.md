@@ -14,10 +14,10 @@
 <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/stores/221BBakerStreet.jpg" alt="..." width="800">
 
 ## Nhiệm vụ nghiên cứu
-Phần mềm này được tạo ra nhằm hy vọng mang đến sự thuận tiện cho người sử dụng cũng như giúp cho các chủ quán có thể xem
+Trang web này được tạo ra nhằm hy vọng mang đến sự thuận tiện cho người sử dụng cũng như giúp cho các chủ quán có thể xem
 xét một cách tổng quán tình hình kinh doanh của quán mình.
 Giúp khách hàng tiện lợi hơn trong việc đặt món và gọi món,xuất hóa đơn cho khách hàng.
-Phần mềm còn mang lại lợi ích kinh tế là giải pháp giúp việc quản lý trở nên đơn giản và thân thiện với mọi người.
+Trang web còn mang lại lợi ích kinh tế là giải pháp giúp việc quản lý trở nên đơn giản và thân thiện với mọi người.
 
 
 ## Công nghệ sử dụng
