@@ -102,7 +102,7 @@ Sử dụng cơ sở dữ liệu sau:
 - Giúp quản lý, kiểm tra thông tin đơn hàng và khách hàng một cách nhanh chóng.
 
 
-<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/qlysanpham.jpg" alt="..." width="800">
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/qlsanpham.jpg" alt="..." width="800">
 
 ## Xem trước
 * Video demo
