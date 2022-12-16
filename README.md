@@ -34,10 +34,10 @@ lập trình
 * Giai đoạn 5: Kết luận rút ra kết luận cho đề tài.
 
 ## Hướng dẫn
-* Bước 1: Clone project.
-* Bước 2: Download và thiết lập Xampp.
-* Bước 3: Mở thư mục Xampp và dán toàn bộ dự án vào thư mục htdocs.
-* Bước 4: Khởi động máy chủ Xampp và bắt đầu apache và mysql.
+* Bước 1: Clone project về máy tính cá nhân.
+* Bước 2: Download và thiết lập xampp trên máy tính cá nhân.
+* Bước 3: Mở thư mục xampp và thêm thư mục chứa toàn bộ dự án vào thư mục htdocs.
+* Bước 4: Khởi động máy chủ xampp và bắt đầu Apache và MySql.
 * Bước 5: Chạy trang web bằng đường link http://localhost/coffee_shop/
 
 ## Mục lục
