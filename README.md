@@ -53,13 +53,13 @@ Sử dụng cơ sở dữ liệu sau:
 
 <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffeeshop_database/database.jpg" alt="..." width="800">
 
-- Bảng Customer là nơi chúng tôi lưu trữ thông tin của khách hàng. Có 5 hàng khác nhau là  **mã khách hàng**, **tên khách hàng**,**số điện thoại**,**địa chỉ** và **email**
-- Bảng Order là nơi chúng tôi lưu trữ thông tin của đơn đặt hàng. Chúng ta có thể thấy **ID** của cửa hàng, ngày đặt hàng và mã đơn đặt.
-- Trong Orderdetails chúng tôi có mã đơn đặt,mã dòng sản phẩm,chất lượng sản phẩm và dòng sản phẩm.
-- Tiếp theo là bảng products chúng ta có mã sản phẩm, dòng sản phẩm,mục mô tả và giá cả.
-- Bảng Store chúng ta bao gồm mã cửa hàng, số điện thoại, địa chỉ và mã của quản lý cửa hàng.
-- Productlines gồm dòng sản phẩm, mô tả kèm theo hình ảnh.
-- Cuối cùng là bảng employees gồm tên,mã và ngày sinh , điện thoại, email của các nhân viên.
+- Bảng customer là nơi chúng tôi lưu trữ thông tin của khách hàng. Có 5 cột khác nhau là  **mã khách hàng**, **tên khách hàng**,**số điện thoại**,**địa chỉ** và **email**
+- Bảng order là nơi chúng tôi lưu trữ thông tin của đơn đặt hàng. Chúng ta có thể thấy **mã đơn hàng**, **mã số cửa hàng**, **ngày đặt hàng**, **ngày đặt hàng** và **giá trị của đơn hàng**.
+- Trong orderdetails chúng tôi có **mã đơn hàng**, **mã sản phẩm**, **số lượng**, **giá** và **dòng sản phẩm**.
+- Tiếp theo là bảng products chúng ta có **mã sản phẩm**, **tên sản phẩm**, **dòng sản phẩm**, **mô tả**, **giá** và **link ảnh**.
+- Bảng store chúng ta bao gồm **mã số cửa hàng**, **số điện thoại**, **địa chỉ**, **thành phố**, **quốc gia** và **mã số của quản lý cửa hàng**.
+- Bảng productline gồm **dòng sản phẩm**, **mô tả** và **link ảnh**.
+- Cuối cùng là bảng employees gồm **mã số nhân viên**, **tên**, **giới tính**, **ngày sinh**, **điện thoại**, **email**, **mã số cửa hàng**, **mã số của quản lý**, **nghiệp vụ**, **ngày bắt đầu** của các nhân viên.
 - Có khóa ngoại giữa các bảng products - productline, orderdetails - products, orderdetails - orders, orders - customers, orders - store, store - employees, employees - store, employees - employees.
 
 <a name = "web-design"></a>
