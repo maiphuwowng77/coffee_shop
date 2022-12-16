@@ -10,7 +10,7 @@
 
 
 # The_Coffee_Shop
-<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/stores/221BBakerStreet.jpg" alt="..." width="600">
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/stores/221BBakerStreet.jpg" alt="..." width="800">
 
 ## Nhiệm vụ nghiên cứu
 Phần mềm này được tạo ra nhằm hy vọng mang đến sự thuận tiện cho người sử dụng cũng như giúp cho các chủ quán có thể xem
