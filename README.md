@@ -73,7 +73,7 @@ Sử dụng cơ sở dữ liệu sau:
   <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/trang chủ.jpg" alt="..." width="800">
   
   
-- Giúp khách hàng có thể lựa chọn đồ uống yêu thích với giá cả và số lượng phù hợp để cho vào giỏ hàng.
+- Khách hàng có thể lựa chọn đồ uống yêu thích với giá cả và số lượng phù hợp để cho vào giỏ hàng.
 
 
 <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/dathang.jpg" alt="..." width="800">
