@@ -60,6 +60,7 @@ Sử dụng cơ sở dữ liệu sau:
 - Bảng Store chúng ta bao gồm mã cửa hàng, số điện thoại, địa chỉ và mã của quản lý cửa hàng.
 - Productlines gồm dòng sản phẩm, mô tả kèm theo hình ảnh.
 - Cuối cùng là bảng employees gồm tên,mã và ngày sinh , điện thoại, email của các nhân viên.
+- Có khóa ngoại giữa các bảng products - productline, orderdetails - products, orderdetails - orders, orders - customers, orders - store, store - employees, employees - store, employees - employees.
 
 <a name = "web-design"></a>
 ## Thiết kế web
