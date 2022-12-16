@@ -43,8 +43,8 @@ lập trình
 ## Mục lục
  - [Thiết kế cơ sở dữ liệu](#database-design)
  - [Thiết kế web](#web-design)
-  - [Trang web bán hàng](#web-design1)
-  - [Trang web quản lý](#web-design2)
+   - [Trang web bán hàng](#web-design1)
+   - [Trang web quản lý](#web-design2)
  - [Xem trước](#preview)
 
 <a name = "database-design"></a>
