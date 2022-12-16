@@ -42,7 +42,7 @@ lập trình
 ## Mục lục
 - [Cơ sở dữ liệu quán cà phê](#coffee-shop-database)
   - [Mục lục](#table-of-content)
-  - [Thết kế cớ sở dự liệu](#database-design)
+  - [Thết kế cơ sở dự liệu](#database-design)
   - [Xem trước](#preview)
 
 ## Thiết kế cơ sở dữ liệu
