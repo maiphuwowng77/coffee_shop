@@ -62,32 +62,47 @@ Sử dụng cơ sở dữ liệu sau:
 
 ### Web bán hàng
 - Gồm trang chủ, giới thiệu về cửa hàng, trang đặt hàng, trang giỏ hàng để thanh toán và trang đăng nhập quản lý.
+
   
   <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/trang chủ.jpg" alt="..." width="800">
   
+  
 - Giúp khách hàng có thể lựa chọn đồ uống yêu thích với giá cả và số lượng phù hợp để cho vào giỏ hàng.
+
 
 <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/dathang.jpg" alt="..." width="800">
 
+
 - Trang giỏ hàng cho phép khách hàng chọn tiếp tục mua hàng, xóa giỏ hàng hoặc điền thông tin để thanh toán.
+
  
 <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/giohang.jpg" alt="..." width="800">
 
+
 - Sau khi điền thông tin và ấn nút đặt hàng, thông tin đơn hàng, khách hàng được lưu vào trong cơ sở dữ liệu, màn hình hiện đơn hàng được đặt thành công và chi tiết hóa đơn.
+
+
 <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/thanhtoan.jpg" alt="..." width="800">
 
 ### Web quản lý 
 
-- Đăng nhập bằng tài khoản để quản lý cửa hàng.
+- Đăng nhập vào tài khoản chủ để quản lý cửa hàng.
 
 
-<img src="https://github.com/hien28082003/coffee_shop/blob/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%204m43s.jpg" alt="..." width="600">
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/dangnhap.jpg" alt="..." width="800">
+
+
 - Gồm mục quản lý nhân viên, quản lý sản phẩm, quản lý đơn hàng, quản lý khách hàng, trang chủ và đăng xuất.
+
+
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/nhanvien.jpg" alt="..." width="800">
+
+
 - Giúp quản lý nhân viên, quản lý sản phẩm, có chức năng thêm, sửa, xóa thông tin nhân viên và sản phẩm.
 - Giúp quản lý, kiểm tra thông tin đơn hàng và khách hàng một cách nhanh chóng.
 
 
-<img src="https://github.com/hien28082003/coffee_shop/blob/main/coffee_shop/coffeeshop-home/img/2022-11-30%2023-48-36%20-%20frame%20at%204m50s.jpg" alt="..." width ="600">
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/qlysanpham.jpg" alt="..." width="800">
 
 ## Xem trước
 * Video demo
