@@ -41,10 +41,11 @@ lập trình
 * Bước 5: Chạy trang web bằng đường link http://localhost/coffee_shop/
 
 ## Mục lục
-- [Cơ sở dữ liệu quán cà phê](#coffee-shop-database)
-  - [Thết kế cơ sở dự liệu](#database-design)
-  - [Thiết kế web](#web-design)
-  - [Xem trước](#preview)
+ - [Thiết kế cơ sở dữ liệu](#database-design)
+ - [Thiết kế web](#web-design)
+  - [Trang web bán hàng](#web-design1)
+  - [Trang web quản lý](#web-design2)
+ - [Xem trước](#preview)
 
 <a name = "database-design"></a>
 ## Thiết kế cơ sở dữ liệu
@@ -63,7 +64,8 @@ Sử dụng cơ sở dữ liệu sau:
 <a name = "web-design"></a>
 ## Thiết kế web
 
-### Web bán hàng
+<a name = "web-design1"></a>
+### Trang web bán hàng
 - Gồm trang chủ, giới thiệu về cửa hàng, trang đặt hàng, trang giỏ hàng để thanh toán và trang đăng nhập quản lý.
 
   
@@ -87,7 +89,8 @@ Sử dụng cơ sở dữ liệu sau:
 
 <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/thanhtoan.jpg" alt="..." width="800">
 
-### Web quản lý 
+<a name = "web-design2"></a>
+### Trang web quản lý 
 
 - Đăng nhập vào tài khoản chủ để quản lý cửa hàng.
 
