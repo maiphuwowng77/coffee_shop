@@ -42,10 +42,11 @@ lập trình
 
 ## Mục lục
 - [Cơ sở dữ liệu quán cà phê](#coffee-shop-database)
-  - [Mục lục](#table-of-content)
   - [Thết kế cơ sở dự liệu](#database-design)
+  - [Thiết kế web](#web-design)
   - [Xem trước](#preview)
 
+<a name = "database-design"></a>
 ## Thiết kế cơ sở dữ liệu
 Sử dụng cơ sở dữ liệu sau:
 
@@ -59,6 +60,7 @@ Sử dụng cơ sở dữ liệu sau:
 - Productlines gồm dòng sản phẩm, mô tả kèm theo hình ảnh.
 - Cuối cùng là bảng employees gồm tên,mã và ngày sinh , điện thoại, email của các nhân viên.
 
+<a name = "web-design"></a>
 ## Thiết kế web
 
 ### Web bán hàng
@@ -105,6 +107,7 @@ Sử dụng cơ sở dữ liệu sau:
 
 <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/qlsanpham.jpg" alt="..." width="800">
 
+<a name = "preview"></a>
 ## Xem trước
 * Liên kết với chúng tôi https://github.com/maiphuwowng77/coffee_shop
 
