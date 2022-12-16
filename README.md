@@ -1,5 +1,5 @@
 # BÀI TẬP LỚN CSDL 
-## Video demo: <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F11yt6_eSQbo-0pmdGSY7xWjhmosB9FLEe%2Fview%3Ffbclid%3DIwAR1fgav-DCk8xDazHJ8uDV-NELM3OmNqe-7nvkLMmMlbnsOn51YHROqNZgw&h=AT39YH0f8yWplgUi_0e1bTaVnrgaS_Gi92q7gsiDzmB-pHdFGGzIf3CfqAWBVLXl3nt79ter6eZOoPJ4AJoGi8C8c0XFYJH2d7lI8BTqqfUZF4LJlRBBfhlByIW75O4ZSeftSAyrNDRg7PasaC_Jmg"> Demo</a>
+## Video demo: <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F11yt6_eSQbo-0pmdGSY7xWjhmosB9FLEe%2Fview%3Ffbclid%3DIwAR1fgav-DCk8xDazHJ8uDV-NELM3OmNqe-7nvkLMmMlbnsOn51YHROqNZgw&h=AT39YH0f8yWplgUi_0e1bTaVnrgaS_Gi92q7gsiDzmB-pHdFGGzIf3CfqAWBVLXl3nt79ter6eZOoPJ4AJoGi8C8c0XFYJH2d7lI8BTqqfUZF4LJlRBBfhlByIW75O4ZSeftSAyrNDRg7PasaC_Jmg"> Demo</a> (Bật chế độ HD để xem video rõ nét hơn)
 ## Thành viên nhóm
 * Lương Mai Phương_21020783
 
