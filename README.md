@@ -46,7 +46,7 @@ lập trình
   - [Xem trước](#preview)
 
 ## Thiết kế cơ sở dữ liệu
-Sử dụng cơ sở dữ liệu
+Sử dụng cơ sở dữ liệu sau:
 
 <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffeeshop_database/database.jpg" alt="..." width="800">
 
@@ -60,15 +60,23 @@ Sử dụng cơ sở dữ liệu
 
 ## Thiết kế web
 
-* Web bán hàng
-- Gồm trang chủ, giới thiệu về cửa hàng, trang đặt hàng, trang giỏ hàng để thanh toán và trang đăng nhập quản lý
-- Giúp khách hàng có thể lựa chọn đồ uống yêu thích với giá cả và số lượng phù hợp để cho vào giỏ hàng
+### Web bán hàng
+- Gồm trang chủ, giới thiệu về cửa hàng, trang đặt hàng, trang giỏ hàng để thanh toán và trang đăng nhập quản lý.
+  
+  <img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/trang chủ.jpg" alt="..." width="800">
+  
+- Giúp khách hàng có thể lựa chọn đồ uống yêu thích với giá cả và số lượng phù hợp để cho vào giỏ hàng.
 
-<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/trang chủ.jpg" alt="..." width="800">
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/dathang.jpg" alt="..." width="800">
 
-- Trang giỏ hàng cho phép khách hàng chọn tiếp tục mua hàng, xóa giỏ hàng hoặc điền thông tin để thanh toán
+- Trang giỏ hàng cho phép khách hàng chọn tiếp tục mua hàng, xóa giỏ hàng hoặc điền thông tin để thanh toán.
+ 
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/giohang.jpg" alt="..." width="800">
 
-* Web quản lý 
+- Sau khi điền thông tin và ấn nút đặt hàng, thông tin đơn hàng, khách hàng được lưu vào trong cơ sở dữ liệu, màn hình hiện đơn hàng được đặt thành công và chi tiết hóa đơn.
+<img src="https://raw.githubusercontent.com/maiphuwowng77/coffee_shop/main/coffee_shop/coffeeshop-home/img/demo2/thanhtoan.jpg" alt="..." width="800">
+
+### Web quản lý 
 
 - Đăng nhập bằng tài khoản để quản lý cửa hàng.
 
